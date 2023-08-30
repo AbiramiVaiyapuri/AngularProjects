@@ -1,0 +1,20 @@
+.table{
+    width: 100px;
+    border-collapse: collapse;
+    margin-top:20px;
+    box-shadow: 0px opx 10px rgba(54, 28, 222, 0.1);
+    border:solid rgb(179, 178, 200) 2px;
+    justify-content: center;
+    
+      align-items: center;
+}
+th{
+    background-color:blue;
+    padding: 20px;
+    text-align: left;
+}
+td{
+    padding: 20px;
+    border:1px solid #645c8e;
+    text-align: left;
+}
